@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 <!--
 **ZenixTheHusky/ZenixTheHusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Let me introduce myself. I'm Peter <sub><sup>(Yep, thats me!)</sup></sub>. I'm a software developer sandwich student for the Science and Technology Facilities Council. I work on a multitude of things at STFC - mainly our Java and C# projects. I also work with Ansible to create software provisioning scripts and I help keep our Jenkins server up and running.
+
+Once my year at STFC is up, I'll be returning to Swansea University to complete my MSc Computer Science degree. I've got two large projects coming up in my 4th and 5th years which are TBD but hopefully they'll pop up here as repos soon!
