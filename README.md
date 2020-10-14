@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Let me introduce myself. I'm Peter <sub><sup>(Yep, thats me!)</sup></sub>. I'm a software developer sandwich student for the Science and Technology Facilities Council. I work on a multitude of things at STFC - mainly our Java and C# projects. I also work with Ansible to create software provisioning scripts and I help keep our Jenkins server up and running.
+Let me introduce myself. I'm Peter <sub><sup>(Yep, thats me!)</sup></sub>. I'm currently studying Computer Science @ Swansea University and I'm on year 4 out of 5. I've got two large projects coming up in my 4th and 5th years which are TBD but hopefully they'll pop up here as repos soon!
 
-Once my year at STFC is up, I'll be returning to Swansea University to complete my MSc Computer Science degree. I've got two large projects coming up in my 4th and 5th years which are TBD but hopefully they'll pop up here as repos soon!
+Once I finish my MSc, I'll be returning to the Science and Technology Facilities Council on a Graduate placement where I'll be rotating through different departments within the ISIS Computing Department.
+
+See ya around!
