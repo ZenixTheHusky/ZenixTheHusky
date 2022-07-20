@@ -23,6 +23,8 @@ Automating tasks and systems is something I really enjoy doing. At work, I've wr
 
 Lately, I've been delving into Docker and Kubernetes. I've "Dockerised" one of our Spring Boot applications and also deployed it onto our dev and prod K8s clusters. With this newfound knowledge, I demonstrated the work that needed to be done to the rest of our team so we could try something new: [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming). Using this method, we managed to containerise our biggest application and get it on our dev K8s cluster too within a week.
 
+Unfortunately, these git repos are private and cannot be seen without first being in the required organisation.
+
 Soon, I'd like to work on monitoring our clusters, possibly using Grafana to show container and endpoint uptime.
 
 See ya in your repos sometime!
