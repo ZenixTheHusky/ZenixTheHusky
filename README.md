@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Let me introduce myself. I'm Peter <sub><sup>(Yep, that's me!)😊</sup></sub>. I have just graduated with a first class honors degree in Computer Science from Swansea University.
-
-I've since returned to the same company I did an Industrial Placement at as a Graduate Software Engineer and have taken on a more DevOps role.
+Let me introduce myself. I'm Peter <sub><sup>(Yep, that's me!)😊</sup></sub>. I have graduated with a first class honors degree in Computer Science from Swansea University.
 
 Automating tasks and systems is something I really enjoy doing. At work, I've written Ansible PlayBooks to automate setting up Jenkins Agents, and I've written a PowerShell script to fully automate the compilation and deployment of our projects.
 
-Lately, I've been delving into Docker and Kubernetes. I've "Dockerised" one of our Spring Boot applications and also deployed it onto our dev and prod K8s clusters. With this newfound knowledge, I demonstrated the work that needed to be done to the rest of our team so we could try something new: [Mob Programming](https://en.wikipedia.org/wiki/Mob_programming). Using this method, we managed to containerise our biggest application and get it on our dev K8s cluster too within a week.
+At my current job, I've explored more Jenkins Pipelines and Docker containers, as well as Terraform, High Performance Computing, and AWS.
 
-Unfortunately, these git repos are private and cannot be seen without first being in the required organisation.
+Lately, I've been deploying pipelines to replace Jenins' FreeStyle jobs across our Windows and Linux agents and creating Groovy shared libraries to use across the business units I support. I'm also currently looking into using AWS SNS and SQS to trigger Jenkins pipelines when certain code has been pushed.
 
-Soon, I'd like to work on monitoring our clusters, possibly using Grafana to show container and endpoint uptime.
+I haven't used this GitHub account in a while, however, there should be some more commits coming soon as I have started a side project. Unfortunately, those repos are private :(
+
+I'm hoping to re-start my journey into open-source programming~ 
 
 See ya in your repos sometime!
